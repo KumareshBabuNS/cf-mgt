@@ -1,0 +1,6 @@
+git_repo_uri: <your git repo uri>
+system_domain: sys.cf.us-east-1.arity-sandbox.com
+user_id: admin
+password: (( vault "somesecret/key" ))
+client_secret: <client secret for uaac for user_id>
+ldap_password: <password to bind to ldap>

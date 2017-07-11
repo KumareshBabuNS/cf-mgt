@@ -1,0 +1,7 @@
+org: carcierge
+spaces:
+- DEV
+- INT
+- STAGING
+- UAT
+enable-delete-spaces: true

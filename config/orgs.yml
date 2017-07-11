@@ -1,0 +1,6 @@
+orgs:
+- carcierge
+- astronaut
+enable-delete-orgs: true
+protected_orgs:
+- system
