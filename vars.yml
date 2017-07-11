@@ -1,6 +1,6 @@
-git_repo_uri: <your git repo uri>
+git_repo_uri: https://github.com/jeffsteed/cf-mgt.git
 system_domain: sys.cf.us-east-1.arity-sandbox.com
 user_id: admin
-password: (( vault "somesecret/key" ))
-client_secret: <client secret for uaac for user_id>
+password: (( vault "secret/pcfops/sandbox/cf-admin:value" ))
+client_secret: (( vault "secret/pcfops/sandbox/uaa-admin:value" )) 
 ldap_password: <password to bind to ldap>
