@@ -2,7 +2,7 @@ org: astronaut
 space: INT
 space-developer:
   ldap_users: []
-  users: [testUser1]
+  users: []
   ldap_group: ""
   ldap_groups: []
 space-manager:
