@@ -1,6 +1,7 @@
 orgs:
 - carcierge
 - astronaut
+- smarttrip
 enable-delete-orgs: true
 protected_orgs:
 - system

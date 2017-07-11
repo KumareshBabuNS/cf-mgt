@@ -1,0 +1,7 @@
+org: smarttrip
+spaces:
+- DEV
+- INT
+- STAGING
+- UAT
+enable-delete-spaces: true
