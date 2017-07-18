@@ -1,0 +1,7 @@
+org: scoring
+spaces:
+- DEV
+- UAT
+- INT
+- STAGING
+enable-delete-spaces: true
