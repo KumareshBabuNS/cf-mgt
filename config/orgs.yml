@@ -3,6 +3,7 @@ orgs:
 - astronaut
 - smarttrip
 - scoring
+- tsp
 enable-delete-orgs: true
 protected_orgs:
 - system
