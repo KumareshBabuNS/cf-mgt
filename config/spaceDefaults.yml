@@ -2,7 +2,7 @@ space-developer:
   ldap_users: []
   users: []
   ldap_group: ""
-  ldap_groups: ["pcf-users"]
+  ldap_groups: []
 space-manager:
   ldap_users: []
   users: []
