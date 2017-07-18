@@ -8,7 +8,7 @@ org-manager:
   ldap_users: []
   users: []
   ldap_group: "pcf-users"
-  ldap_groups: []
+  ldap_groups: ["pcf-users"]
 org-auditor:
   ldap_users: []
   users: []
