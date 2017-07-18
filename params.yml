@@ -3,5 +3,4 @@ system_domain: sys.cf.us-east-1.arity-sandbox.com
 user_id: admin
 password: (( vault "secret/pcfops/sandbox/cf-admin:value" ))
 client_secret: (( vault "secret/pcfops/sandbox/uaa-admin:value" ))
-ldap_url: ldap://172.27.95.136:389 
 ldap_password: (( vault "secret/pcfops/sandbox/ldap/password:value" ))
