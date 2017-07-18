@@ -2,12 +2,12 @@ org: astronaut
 org-billingmanager:
   ldap_users: []
   users: []
-  ldap_group: ""
+  ldap_group: "" 
   ldap_groups: []
 org-manager:
   ldap_users: []
   users: []
-  ldap_group: ""
+  ldap_group: "pcf-users"
   ldap_groups: []
 org-auditor:
   ldap_users: []
